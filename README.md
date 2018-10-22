@@ -27,7 +27,7 @@ Username = admin
 * POST	      /v1/products	         Creates a product
 * POST	      /v1/sales	                 Creates a sales order
 
-| First Header  | Second Header |
+| Method  | routes | What it does |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
