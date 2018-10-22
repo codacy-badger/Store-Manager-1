@@ -26,6 +26,11 @@ Username = admin
 * GET	      /v1/sales/<sale_id>	 Fetches a single sales record by id
 * POST	      /v1/products	         Creates a product
 * POST	      /v1/sales	                 Creates a sales order
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
     
  * for POST request its better to use  POSTMAN
  
