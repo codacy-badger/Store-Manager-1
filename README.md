@@ -18,21 +18,17 @@ Username = admin
 
 ```
 ## API Endpoints
-	
-* |GET|         /v1/products |     	 Fetches all products|
-   -----------------------------------------------------------
-* GET         /v1/sales	Fetches          all sales records
-* GET	      /v1/products/<prod_id>	 Fetches a single product record by id
-* GET	      /v1/sales/<sale_id>	 Fetches a single sales record by id
-* POST	      /v1/products	         Creates a product
-* POST	      /v1/sales	                 Creates a sales order
 
-| Method        | routes        | What it does              |
-| ------------- | ------------- | ------------------------- |
-|   GET         | /v1/products  | Fetches all products      |
-|   GET         |  /v1/sales	| Fetches all sales records |
+| Method        | routes        		| What it does              		|
+| ------------- | ----------------------------- | ------------------------------------	|
+|   GET         | /v1/products          	| Fetches all products      		|
+|   GET         | /v1/sales	        	| Fetches all sales records 		|
+|   GET         | /v1/products/<prod_id>	| Fetches a single product record by id |
+|   GET         |  /v1/sales/<sale_id>		| Fetches all sales records 		|
+|   POST        |  /v1/products			| Create a product in store 		|
+|   POST        |  /v1/sales			| Create a sales Order in store		|
     
- * for POST request its better to use  POSTMAN
+ * for POST requests its better to use  POSTMAN
  
  
  
