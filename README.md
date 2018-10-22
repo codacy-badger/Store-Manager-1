@@ -27,10 +27,10 @@ Username = admin
 * POST	      /v1/products	         Creates a product
 * POST	      /v1/sales	                 Creates a sales order
 
-| Method  | routes | What it does |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Method        | routes        | What it does              |
+| ------------- | ------------- | ------------------------- |
+|   GET         | /v1/products  | Fetches all products      |
+|   GET         |  /v1/sales	| Fetches all sales records |
     
  * for POST request its better to use  POSTMAN
  
