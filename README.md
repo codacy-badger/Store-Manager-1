@@ -19,7 +19,8 @@ Username = admin
 ```
 ## API Endpoints
 	
-* GET         /v1/products      	 Fetches all products
+* |GET|         /v1/products |     	 Fetches all products|
+   -----------------------------------------------------------
 * GET         /v1/sales	Fetches          all sales records
 * GET	      /v1/products/<prod_id>	 Fetches a single product record by id
 * GET	      /v1/sales/<sale_id>	 Fetches a single sales record by id
